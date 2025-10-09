@@ -17,7 +17,7 @@ from sklearn.naive_bayes import GaussianNB
 pd.set_option('display.max_columns', None)
 
 #Load Dataset
-df = pd.read_csv(r'C:\Users\Jose\Documents\python\Rich_Global_Condom_Usage_Dataset.csv')
+df = pd.read_csv(r'Rich_Global_Condom_Usage_Dataset.csv')
 
 #Basic Information
 print(f'This Dataset contains {df.shape[0]} rows and {df.shape[1]} columns')
@@ -109,3 +109,4 @@ for name, model in ml_models.items():
     cm = confusion_matrix(y_test,y_pred)
     print(f"{name} is {score:.2%}% accurate!")
     print(f"Confusion Matrix for {name}: \n {cm}")
+
