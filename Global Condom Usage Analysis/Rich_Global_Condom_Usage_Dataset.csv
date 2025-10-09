@@ -1,0 +1,551 @@
+Year,Country,Total Sales (Million Units),Market Revenue (Million USD),Government Campaigns,Awareness Index (0-10),Most Popular Condom Type,Contraceptive Usage Rate (%),Teen Pregnancy Rate (per 1000 teens),HIV Prevention Awareness (%),Online Sales (%),Average Price per Condom (USD),Male vs Female Purchases (%),Brand Dominance,Sex Education Programs (Yes/No)
+2015,USA,378,276.3049765603167,No,2.93,Latex,27.1,58.37,89.17,45.0,1.34,69% Male - 39% Female,Kamasutra,No
+2015,USA,1875,3002.379845729248,No,9.28,Ultra-Thin,63.97,50.63,69.25,57.1,2.43,50% Male - 33% Female,Skyn,No
+2015,USA,2496,6564.222332683831,Yes,5.26,Non-Latex,56.21,42.23,56.13,59.52,2.3,46% Male - 54% Female,Skyn,Yes
+2015,USA,1437,4993.892124780996,Yes,3.63,Non-Latex,89.71,55.86,78.36,56.83,2.48,49% Male - 57% Female,Manforce,No
+2015,USA,1923,5355.152313336957,Yes,5.71,Non-Latex,86.96,7.82,37.61,47.99,0.34,40% Male - 29% Female,Trojan,Yes
+2015,India,1273,4200.754787588306,No,9.48,Non-Latex,69.16,56.18,60.86,5.07,1.52,73% Male - 48% Female,Kamasutra,No
+2015,India,1580,4856.16590619861,No,9.31,Ultra-Thin,40.95,34.12,90.31,23.89,2.31,42% Male - 44% Female,Skyn,Yes
+2015,India,116,103.44636687174751,No,3.15,Non-Latex,17.97,43.23,54.99,61.79,1.33,58% Male - 29% Female,Skyn,No
+2015,India,1774,5508.8941468407065,Yes,9.09,Non-Latex,94.18,67.43,79.34,11.33,1.28,72% Male - 28% Female,Trojan,Yes
+2015,India,127,201.71685070256302,Yes,4.79,Non-Latex,27.39,69.19,59.64,17.67,1.15,48% Male - 57% Female,Trojan,Yes
+2015,UK,974,2748.9214700528305,No,8.01,Ultra-Thin,78.41,3.18,88.03,6.93,2.28,48% Male - 31% Female,Skyn,No
+2015,UK,1938,6453.868200348258,Yes,5.59,Ultra-Thin,87.99,27.2,77.22,58.29,1.85,72% Male - 26% Female,LifeStyles,No
+2015,UK,389,842.036248410267,Yes,5.12,Ultra-Thin,34.99,43.71,90.56,55.27,1.92,67% Male - 23% Female,Trojan,Yes
+2015,UK,178,143.43415272794402,No,7.28,Textured,64.44,11.88,78.26,15.38,1.62,42% Male - 21% Female,LifeStyles,No
+2015,UK,1263,2851.2734996669196,Yes,6.56,Non-Latex,43.5,54.81,80.09,20.96,2.42,40% Male - 45% Female,Manforce,Yes
+2015,Brazil,1996,4704.7849034196115,No,6.43,Latex,51.61,9.07,65.82,10.6,2.19,53% Male - 43% Female,Durex,No
+2015,Brazil,485,1628.5402657368338,No,9.59,Non-Latex,58.46,58.27,56.32,50.07,1.65,67% Male - 50% Female,Durex,No
+2015,Brazil,1001,1921.904670836084,Yes,3.52,Ultra-Thin,85.06,18.38,75.78,40.74,1.35,56% Male - 38% Female,LifeStyles,No
+2015,Brazil,457,271.3247727994706,Yes,8.94,Textured,49.1,43.87,33.76,23.53,2.16,47% Male - 33% Female,Durex,Yes
+2015,Brazil,1398,960.0858656824747,Yes,4.59,Ultra-Thin,26.91,23.96,51.03,13.32,0.93,75% Male - 21% Female,Trojan,Yes
+2015,Germany,524,1202.070274472639,Yes,6.33,Non-Latex,52.95,22.36,80.38,5.42,0.4,56% Male - 47% Female,Manforce,No
+2015,Germany,549,1613.1179879485271,No,7.01,Non-Latex,84.54,58.93,60.6,5.23,2.27,80% Male - 29% Female,Trojan,No
+2015,Germany,794,2554.674108269799,No,4.17,Textured,21.29,61.54,31.65,45.49,1.4,80% Male - 54% Female,LifeStyles,No
+2015,Germany,371,795.7579131826279,No,5.33,Non-Latex,64.5,15.13,63.85,46.39,0.91,51% Male - 59% Female,Manforce,Yes
+2015,Germany,1464,1182.1385395721352,Yes,5.03,Latex,50.06,2.39,49.91,33.05,1.36,59% Male - 35% Female,LifeStyles,Yes
+2015,South Africa,825,2221.8411135147503,Yes,6.41,Textured,60.24,6.25,38.69,43.11,2.09,59% Male - 25% Female,Kamasutra,No
+2015,South Africa,725,1847.8771106451888,Yes,4.22,Non-Latex,23.93,40.82,61.54,32.71,2.31,66% Male - 49% Female,Okamoto,No
+2015,South Africa,1062,2706.855334271414,Yes,7.92,Textured,81.06,18.76,87.03,26.14,1.14,41% Male - 28% Female,Kamasutra,No
+2015,South Africa,605,701.5804830334682,No,7.15,Latex,79.09,46.0,45.95,63.7,1.75,69% Male - 45% Female,Manforce,Yes
+2015,South Africa,1499,4935.7984923654585,No,8.33,Non-Latex,29.08,66.12,92.64,29.76,0.56,43% Male - 24% Female,Trojan,No
+2015,China,2278,2666.228501482649,Yes,9.42,Ultra-Thin,85.68,67.41,40.29,66.96,0.25,52% Male - 54% Female,Manforce,Yes
+2015,China,1061,2592.986934782062,No,8.41,Ultra-Thin,75.4,63.61,81.57,15.53,1.1,49% Male - 40% Female,Durex,Yes
+2015,China,1839,2146.269855911442,No,6.88,Latex,30.36,5.33,54.01,42.53,1.48,42% Male - 47% Female,Trojan,No
+2015,China,1588,3125.074003132251,Yes,9.32,Latex,31.63,7.04,80.72,33.39,1.56,44% Male - 37% Female,LifeStyles,No
+2015,China,1981,3100.1204466367158,Yes,5.93,Ultra-Thin,28.57,57.02,85.9,54.28,1.17,53% Male - 43% Female,Okamoto,Yes
+2015,Japan,315,677.3462935780956,Yes,2.22,Non-Latex,23.08,41.37,78.94,25.28,0.5,45% Male - 38% Female,Skyn,Yes
+2015,Japan,1315,2740.0496544556286,Yes,3.66,Ultra-Thin,53.54,35.61,39.66,9.64,1.9,44% Male - 55% Female,Okamoto,No
+2015,Japan,1070,1716.7753785018806,No,9.28,Textured,17.14,5.26,97.54,8.57,1.95,60% Male - 26% Female,Manforce,Yes
+2015,Japan,1344,773.4332802571142,No,7.46,Textured,27.54,49.66,80.67,33.19,2.4,70% Male - 45% Female,Durex,Yes
+2015,Japan,384,1144.0136451184342,No,4.03,Ultra-Thin,71.4,6.16,50.3,15.63,0.69,43% Male - 41% Female,Trojan,Yes
+2015,France,1818,2255.018472921286,Yes,2.97,Non-Latex,60.76,28.5,71.84,65.25,0.78,80% Male - 52% Female,Skyn,Yes
+2015,France,602,603.8062733537836,Yes,2.27,Textured,30.7,66.94,98.84,43.58,2.03,51% Male - 25% Female,LifeStyles,No
+2015,France,1180,2381.432770809124,No,3.22,Ultra-Thin,16.0,66.17,70.32,55.26,1.08,59% Male - 25% Female,Okamoto,No
+2015,France,1229,3579.374092778992,Yes,2.26,Textured,66.61,33.4,60.98,60.07,1.34,80% Male - 54% Female,LifeStyles,Yes
+2015,France,663,925.3936969392513,No,5.47,Textured,78.92,67.37,42.22,13.98,1.43,69% Male - 20% Female,Okamoto,Yes
+2015,Australia,1088,1240.7982428674861,Yes,7.15,Ultra-Thin,92.5,36.67,32.18,11.95,0.85,45% Male - 29% Female,Manforce,Yes
+2015,Australia,458,544.2786617079827,No,3.6,Textured,48.49,18.94,94.5,28.74,2.07,64% Male - 42% Female,Trojan,Yes
+2015,Australia,1984,1029.729541201425,Yes,9.29,Ultra-Thin,38.89,47.53,40.74,58.46,1.44,54% Male - 58% Female,Durex,No
+2015,Australia,585,1207.7692149430611,No,9.53,Non-Latex,89.91,25.59,96.38,50.86,0.34,65% Male - 39% Female,Skyn,Yes
+2015,Australia,204,315.3272034832474,Yes,2.8,Textured,59.63,16.44,30.6,16.14,0.46,57% Male - 21% Female,Manforce,No
+2016,USA,2248,6255.599381307438,No,6.38,Latex,38.88,21.65,44.14,58.35,1.95,72% Male - 38% Female,Okamoto,Yes
+2016,USA,938,1089.898269655843,No,7.19,Textured,93.3,17.55,76.23,24.87,1.34,64% Male - 23% Female,Kamasutra,No
+2016,USA,240,494.7852013771475,No,9.33,Textured,59.81,44.27,41.98,35.49,0.43,59% Male - 54% Female,Skyn,Yes
+2016,USA,2265,1614.319894710911,No,2.56,Latex,28.78,65.79,70.03,26.43,1.14,71% Male - 55% Female,LifeStyles,Yes
+2016,USA,2060,4645.623552339601,Yes,3.7,Non-Latex,26.57,18.66,72.79,51.59,1.41,59% Male - 35% Female,Kamasutra,Yes
+2016,India,1795,1980.8152432566314,No,7.28,Latex,89.42,21.79,38.4,14.56,2.06,70% Male - 33% Female,Manforce,Yes
+2016,India,1752,4440.858405204223,No,8.02,Ultra-Thin,62.42,43.51,70.19,45.57,0.77,44% Male - 49% Female,Skyn,No
+2016,India,1768,2886.378958567685,Yes,5.09,Ultra-Thin,64.0,27.77,57.31,52.94,2.21,76% Male - 34% Female,LifeStyles,Yes
+2016,India,858,2866.9247890583238,No,6.86,Ultra-Thin,33.31,46.58,60.2,45.67,2.0,59% Male - 44% Female,Trojan,Yes
+2016,India,168,470.5761274839466,No,4.79,Ultra-Thin,71.59,9.0,69.99,6.12,1.92,68% Male - 56% Female,Kamasutra,Yes
+2016,UK,2487,1347.39036872322,Yes,9.41,Latex,46.34,42.53,69.3,34.39,2.39,57% Male - 53% Female,Okamoto,No
+2016,UK,1729,5620.972471273831,Yes,4.49,Ultra-Thin,28.71,43.42,35.78,39.03,0.51,46% Male - 29% Female,Durex,Yes
+2016,UK,533,1670.9189436189986,Yes,3.26,Latex,40.27,69.01,37.72,17.15,0.31,63% Male - 51% Female,Trojan,Yes
+2016,UK,1916,3953.3301220015883,No,6.81,Latex,25.98,54.79,79.63,23.84,1.48,79% Male - 50% Female,Okamoto,No
+2016,UK,2301,1754.2519045522351,No,2.58,Ultra-Thin,40.7,16.71,52.09,27.14,2.14,79% Male - 48% Female,Manforce,Yes
+2016,Brazil,975,822.6558981268388,No,2.33,Textured,87.67,53.4,64.38,20.28,2.28,52% Male - 58% Female,Manforce,Yes
+2016,Brazil,296,506.2576161553919,Yes,5.41,Textured,15.56,13.45,57.4,17.99,1.29,49% Male - 56% Female,Manforce,Yes
+2016,Brazil,603,1622.0778793111135,Yes,5.79,Latex,64.23,6.63,86.39,16.8,0.28,79% Male - 25% Female,Manforce,No
+2016,Brazil,1846,6287.117790820693,No,8.37,Textured,63.73,69.89,82.39,32.22,1.44,80% Male - 36% Female,LifeStyles,No
+2016,Brazil,982,3219.2264463862552,No,6.22,Non-Latex,59.4,49.44,76.02,6.85,1.82,65% Male - 28% Female,Durex,No
+2016,Germany,970,488.19040329325367,Yes,6.35,Ultra-Thin,59.04,42.38,67.04,52.55,1.5,47% Male - 48% Female,Okamoto,No
+2016,Germany,1177,636.3551686571022,Yes,9.82,Latex,80.8,37.46,28.97,47.46,2.05,45% Male - 27% Female,Kamasutra,Yes
+2016,Germany,308,243.65037707977118,No,5.89,Ultra-Thin,80.26,65.71,83.41,24.61,0.58,46% Male - 48% Female,Skyn,No
+2016,Germany,353,920.6033026655366,No,2.41,Textured,58.51,54.43,25.27,12.42,2.38,47% Male - 60% Female,Durex,Yes
+2016,Germany,483,1260.797795176805,No,2.77,Ultra-Thin,75.63,5.2,38.41,24.95,1.77,50% Male - 59% Female,Trojan,No
+2016,South Africa,1276,3210.5278667952202,Yes,9.83,Textured,46.94,56.47,97.45,65.77,0.96,72% Male - 38% Female,Skyn,No
+2016,South Africa,1231,2287.844781209945,No,2.9,Textured,67.19,17.55,96.69,25.16,1.01,71% Male - 56% Female,Okamoto,No
+2016,South Africa,718,1443.4541159254952,Yes,9.92,Latex,45.83,3.43,86.67,56.6,2.49,72% Male - 41% Female,Manforce,Yes
+2016,South Africa,1674,3737.30590735409,Yes,9.81,Textured,45.04,40.09,49.13,19.3,0.47,65% Male - 32% Female,Skyn,No
+2016,South Africa,1534,4951.703366951445,Yes,5.99,Textured,76.83,46.09,64.76,31.55,0.81,45% Male - 50% Female,Durex,Yes
+2016,China,1064,3540.969446246312,No,2.94,Textured,64.42,43.21,65.76,19.11,0.55,57% Male - 52% Female,Kamasutra,No
+2016,China,338,1163.5436445016173,Yes,8.35,Ultra-Thin,87.65,37.81,60.92,18.35,0.8,60% Male - 37% Female,Okamoto,Yes
+2016,China,2136,4213.020194048836,Yes,8.78,Textured,45.94,11.39,48.35,67.48,0.26,66% Male - 32% Female,Durex,Yes
+2016,China,1042,3447.5009126340296,Yes,4.49,Latex,27.69,37.02,38.63,24.41,0.44,73% Male - 25% Female,LifeStyles,No
+2016,China,1997,1808.163891390932,Yes,8.23,Ultra-Thin,51.14,15.57,32.17,17.36,0.25,73% Male - 56% Female,Kamasutra,No
+2016,Japan,546,589.1932025340313,No,5.0,Latex,21.17,46.03,86.29,37.23,0.66,69% Male - 43% Female,Trojan,Yes
+2016,Japan,525,1329.2031990765458,Yes,3.71,Non-Latex,22.33,30.68,73.21,28.78,0.94,65% Male - 34% Female,Kamasutra,No
+2016,Japan,2120,5642.500477577571,Yes,2.06,Textured,73.84,14.69,54.13,11.55,2.49,47% Male - 21% Female,Manforce,No
+2016,Japan,252,617.2478539763446,Yes,2.46,Textured,48.12,47.53,66.99,52.85,1.38,72% Male - 25% Female,LifeStyles,No
+2016,Japan,1123,3036.343101128012,No,7.88,Latex,42.08,47.04,29.72,5.74,1.81,56% Male - 42% Female,Skyn,Yes
+2016,France,1038,1018.3807888775209,No,4.67,Latex,73.11,28.94,91.88,11.4,0.37,53% Male - 27% Female,Okamoto,Yes
+2016,France,58,100.79157675617299,No,3.49,Textured,33.18,21.72,54.03,37.38,0.94,74% Male - 59% Female,Kamasutra,No
+2016,France,148,192.9322095027836,No,5.63,Ultra-Thin,66.48,22.28,36.7,21.45,2.0,66% Male - 54% Female,Trojan,No
+2016,France,829,2559.649762192376,No,6.85,Textured,46.1,66.86,64.65,63.18,2.04,69% Male - 36% Female,Kamasutra,No
+2016,France,1745,2872.389794739656,No,7.26,Textured,16.4,5.36,79.9,23.68,2.26,70% Male - 39% Female,Manforce,No
+2016,Australia,434,942.6939942280864,Yes,2.81,Latex,79.14,62.07,67.21,21.46,1.8,69% Male - 57% Female,LifeStyles,Yes
+2016,Australia,1322,2322.258577738342,No,7.97,Textured,19.74,46.95,42.66,56.4,0.49,56% Male - 43% Female,Okamoto,Yes
+2016,Australia,1499,2661.9986342077855,No,4.77,Non-Latex,67.73,55.77,52.59,30.84,2.17,67% Male - 47% Female,Kamasutra,No
+2016,Australia,139,221.0362551892609,Yes,9.38,Non-Latex,44.64,44.14,65.45,29.31,0.64,78% Male - 54% Female,Kamasutra,Yes
+2016,Australia,588,488.5469732720038,No,8.44,Non-Latex,15.41,9.9,40.84,12.71,0.64,57% Male - 38% Female,Manforce,Yes
+2017,USA,275,333.17765187144227,No,8.44,Latex,44.65,28.43,87.04,34.73,2.27,45% Male - 43% Female,Kamasutra,Yes
+2017,USA,1556,1586.0566373764227,Yes,4.72,Ultra-Thin,37.04,61.53,38.29,9.22,0.7,48% Male - 34% Female,Manforce,No
+2017,USA,636,1348.457814662617,Yes,8.86,Non-Latex,45.28,52.55,90.44,68.68,1.67,43% Male - 58% Female,Durex,No
+2017,USA,355,553.9214504747338,No,4.52,Non-Latex,20.3,50.31,94.76,53.68,1.47,60% Male - 20% Female,LifeStyles,No
+2017,USA,1694,3742.2208242397132,No,5.16,Textured,20.32,24.8,92.9,55.63,1.27,53% Male - 45% Female,Kamasutra,No
+2017,India,1897,4448.562332062771,Yes,9.61,Non-Latex,18.47,41.79,27.03,65.44,1.97,68% Male - 54% Female,Manforce,No
+2017,India,539,1324.5936871628608,Yes,7.11,Textured,21.38,38.24,72.84,47.47,0.77,72% Male - 39% Female,Manforce,No
+2017,India,1580,4119.737175160989,No,6.8,Ultra-Thin,22.06,16.78,34.9,32.08,1.63,74% Male - 32% Female,Kamasutra,No
+2017,India,1766,2737.8662040267127,No,2.09,Non-Latex,94.07,61.71,35.77,63.51,0.62,51% Male - 32% Female,Trojan,Yes
+2017,India,2030,5073.239576999496,No,7.02,Ultra-Thin,15.91,25.12,57.83,37.58,0.5,70% Male - 23% Female,Trojan,No
+2017,UK,1198,1102.7567467869474,Yes,9.7,Non-Latex,91.37,63.27,73.73,34.94,2.44,50% Male - 59% Female,Trojan,No
+2017,UK,149,115.45050689022067,Yes,6.75,Ultra-Thin,54.89,64.09,44.17,47.38,0.4,50% Male - 54% Female,Manforce,No
+2017,UK,2475,4587.938448166944,No,3.8,Non-Latex,70.78,63.15,95.0,21.74,2.23,40% Male - 53% Female,Manforce,Yes
+2017,UK,1761,3858.9225579778863,No,4.38,Latex,47.33,22.31,72.39,11.15,0.31,76% Male - 35% Female,Okamoto,Yes
+2017,UK,2303,2676.2162353316075,Yes,4.61,Ultra-Thin,85.74,19.54,61.4,23.1,0.27,80% Male - 43% Female,Skyn,Yes
+2017,Brazil,90,133.79195680572664,Yes,8.86,Non-Latex,55.26,54.41,43.86,7.86,2.1,76% Male - 59% Female,LifeStyles,No
+2017,Brazil,1929,1589.4481077703433,Yes,9.53,Textured,70.09,25.48,81.11,65.92,1.88,63% Male - 29% Female,Manforce,No
+2017,Brazil,1676,5503.918981661891,Yes,8.08,Textured,83.59,11.37,45.08,29.28,1.15,59% Male - 53% Female,Manforce,Yes
+2017,Brazil,456,745.2109035127944,No,8.88,Ultra-Thin,51.46,53.8,71.6,60.78,1.84,41% Male - 56% Female,Skyn,Yes
+2017,Brazil,2231,6795.475288439507,Yes,8.21,Ultra-Thin,24.02,25.26,47.12,64.9,2.31,54% Male - 35% Female,Kamasutra,Yes
+2017,Germany,1650,5306.820597735287,No,9.45,Latex,26.24,6.63,54.68,18.32,0.49,80% Male - 33% Female,Durex,No
+2017,Germany,1671,1220.6039501895052,No,5.03,Non-Latex,82.44,22.96,27.54,40.75,1.28,74% Male - 30% Female,Durex,Yes
+2017,Germany,1104,1745.5725046047405,No,9.73,Ultra-Thin,19.28,39.14,41.13,19.17,1.06,67% Male - 28% Female,Manforce,Yes
+2017,Germany,110,105.75904498087961,Yes,5.5,Non-Latex,76.27,38.39,62.04,66.79,1.33,50% Male - 20% Female,Durex,Yes
+2017,Germany,918,2825.30484682626,Yes,5.99,Latex,69.39,23.14,91.51,9.97,0.76,53% Male - 33% Female,Okamoto,Yes
+2017,South Africa,636,1184.9389001195013,No,7.84,Non-Latex,66.05,22.17,70.43,50.52,2.24,47% Male - 50% Female,Kamasutra,Yes
+2017,South Africa,1148,998.2682937574347,No,5.74,Textured,72.01,52.45,68.5,23.8,1.72,59% Male - 41% Female,LifeStyles,No
+2017,South Africa,786,1626.690368266055,Yes,6.74,Latex,50.23,62.18,66.02,22.12,1.54,70% Male - 51% Female,Trojan,Yes
+2017,South Africa,1140,1312.7952455017196,Yes,8.52,Latex,22.38,49.72,61.55,30.82,2.46,63% Male - 58% Female,Manforce,Yes
+2017,South Africa,588,1176.1964163625257,Yes,7.09,Latex,73.41,53.67,59.15,68.77,0.78,48% Male - 46% Female,Kamasutra,Yes
+2017,China,2378,3598.010796039511,No,9.4,Non-Latex,17.76,14.91,64.49,7.61,1.03,41% Male - 35% Female,Manforce,No
+2017,China,393,1194.8248654369656,Yes,7.63,Ultra-Thin,94.83,49.07,38.42,53.4,0.28,76% Male - 54% Female,Skyn,Yes
+2017,China,326,476.51926481852297,Yes,5.69,Ultra-Thin,27.29,49.18,30.06,18.21,0.69,62% Male - 38% Female,Okamoto,Yes
+2017,China,1866,5565.827160996733,No,9.23,Ultra-Thin,58.19,8.87,46.79,60.21,1.5,67% Male - 54% Female,Durex,Yes
+2017,China,1707,4687.772299704293,No,9.93,Ultra-Thin,40.58,6.41,98.35,44.7,0.63,75% Male - 53% Female,Okamoto,No
+2017,Japan,1626,4670.863157658183,Yes,9.74,Textured,82.11,56.1,44.7,41.11,2.3,62% Male - 23% Female,Durex,No
+2017,Japan,67,34.65620552035023,No,2.54,Non-Latex,74.19,29.4,29.85,52.66,1.86,74% Male - 58% Female,Skyn,No
+2017,Japan,1405,3647.1571136007237,Yes,7.11,Non-Latex,32.29,19.1,65.19,29.94,2.2,71% Male - 33% Female,Trojan,No
+2017,Japan,1889,1123.86756086335,No,9.45,Non-Latex,48.09,31.01,41.69,68.96,0.49,69% Male - 50% Female,Trojan,No
+2017,Japan,625,800.2057434444963,Yes,3.83,Non-Latex,89.27,31.94,81.38,63.18,1.56,58% Male - 57% Female,Okamoto,Yes
+2017,France,2309,6356.745239336245,Yes,9.51,Ultra-Thin,90.64,63.86,64.81,6.93,0.7,73% Male - 35% Female,Trojan,Yes
+2017,France,1561,2693.1218330401166,Yes,2.83,Non-Latex,88.11,59.26,62.95,31.46,1.35,58% Male - 50% Female,Trojan,No
+2017,France,848,2470.3500686132215,Yes,2.54,Ultra-Thin,40.56,5.84,95.24,15.65,1.67,72% Male - 31% Female,LifeStyles,Yes
+2017,France,870,2917.9635667943744,Yes,8.71,Textured,37.68,50.2,26.11,18.32,1.63,43% Male - 35% Female,Trojan,No
+2017,France,1760,4804.2373364835385,No,2.13,Latex,63.81,47.31,70.93,39.48,0.26,40% Male - 47% Female,Kamasutra,Yes
+2017,Australia,1896,2081.2817972016946,Yes,8.65,Non-Latex,22.85,5.38,63.44,20.11,1.63,69% Male - 31% Female,Kamasutra,Yes
+2017,Australia,157,499.35070307403447,Yes,8.77,Ultra-Thin,89.06,2.02,80.66,59.44,1.77,68% Male - 47% Female,Okamoto,Yes
+2017,Australia,515,1578.6588752339733,No,7.31,Ultra-Thin,33.71,6.13,29.94,29.61,1.33,46% Male - 36% Female,Skyn,No
+2017,Australia,125,309.3506246846489,No,5.18,Textured,31.78,31.17,65.95,30.59,1.86,55% Male - 23% Female,Kamasutra,No
+2017,Australia,2270,2261.968304310455,No,8.96,Latex,37.32,23.82,44.4,38.14,1.33,80% Male - 31% Female,Okamoto,No
+2018,USA,1786,3659.8115744497186,Yes,3.01,Ultra-Thin,49.5,47.6,58.59,13.01,0.33,79% Male - 55% Female,Manforce,No
+2018,USA,462,751.7111041558134,No,9.88,Textured,28.59,65.16,28.04,10.88,1.12,48% Male - 37% Female,Trojan,Yes
+2018,USA,1873,3065.6405144740406,No,6.57,Textured,35.67,38.79,28.9,8.02,1.95,76% Male - 42% Female,Durex,Yes
+2018,USA,614,597.9039899813953,No,9.07,Ultra-Thin,27.03,44.18,33.12,19.54,0.68,61% Male - 54% Female,Durex,Yes
+2018,USA,1946,981.9468369079863,Yes,2.94,Ultra-Thin,50.47,44.17,93.73,32.2,0.24,46% Male - 32% Female,Durex,Yes
+2018,India,2210,2464.4445805581713,Yes,9.6,Textured,66.31,44.28,30.63,15.08,1.37,78% Male - 56% Female,Kamasutra,Yes
+2018,India,1514,4223.900533217284,No,7.1,Textured,26.95,22.73,63.15,27.24,2.1,63% Male - 55% Female,Trojan,Yes
+2018,India,290,650.7450398707429,No,3.07,Latex,60.34,42.14,31.96,5.61,1.95,58% Male - 59% Female,Manforce,No
+2018,India,122,226.89397937482556,Yes,6.76,Non-Latex,26.41,23.53,73.84,24.42,2.28,44% Male - 60% Female,Okamoto,Yes
+2018,India,687,1201.277447545951,No,3.55,Ultra-Thin,31.01,7.52,90.58,67.61,1.16,68% Male - 26% Female,Manforce,Yes
+2018,UK,1877,3640.820643637688,Yes,8.25,Textured,57.86,35.51,66.53,9.7,1.82,76% Male - 36% Female,Skyn,No
+2018,UK,484,1639.1849818639594,No,6.53,Textured,54.36,36.59,50.2,24.05,0.87,59% Male - 21% Female,Okamoto,Yes
+2018,UK,2192,7238.4407139542445,Yes,8.3,Non-Latex,78.36,5.04,88.9,25.7,1.57,65% Male - 58% Female,Okamoto,No
+2018,UK,2415,4191.9868726766545,Yes,2.34,Textured,69.41,25.0,49.11,19.29,0.51,42% Male - 49% Female,Trojan,No
+2018,UK,364,1235.8143128785657,No,6.08,Non-Latex,26.73,30.88,77.39,18.63,0.82,54% Male - 22% Female,Kamasutra,No
+2018,Brazil,425,290.43452987827925,No,4.68,Ultra-Thin,68.21,46.33,39.19,54.89,1.6,70% Male - 34% Female,Kamasutra,Yes
+2018,Brazil,1991,6693.090980342904,Yes,2.8,Latex,80.01,45.79,84.34,13.84,1.44,76% Male - 28% Female,Okamoto,Yes
+2018,Brazil,316,848.2761683929253,No,6.53,Latex,50.58,66.59,34.28,62.61,1.05,68% Male - 54% Female,Manforce,No
+2018,Brazil,1331,4021.214039044552,No,2.86,Latex,78.93,33.43,35.1,6.11,2.1,44% Male - 50% Female,Trojan,No
+2018,Brazil,497,975.8467294358071,Yes,2.57,Latex,70.4,7.0,84.49,60.34,1.39,70% Male - 42% Female,Skyn,Yes
+2018,Germany,1404,4736.76965281121,No,2.04,Textured,60.98,14.61,60.64,66.42,1.56,58% Male - 30% Female,Kamasutra,Yes
+2018,Germany,744,1669.8134096662914,Yes,5.39,Non-Latex,45.66,68.77,33.76,43.23,1.01,40% Male - 59% Female,Trojan,No
+2018,Germany,1468,828.7833314123304,Yes,4.93,Non-Latex,91.65,67.8,98.51,42.93,1.28,77% Male - 52% Female,Manforce,Yes
+2018,Germany,1422,3531.870870852984,No,3.84,Ultra-Thin,81.51,5.59,48.83,6.61,0.89,79% Male - 33% Female,Kamasutra,Yes
+2018,Germany,1301,2857.663719805313,No,5.84,Latex,54.91,67.75,55.94,40.73,0.96,44% Male - 33% Female,Skyn,Yes
+2018,South Africa,148,116.68559923233134,No,7.65,Textured,15.44,37.68,55.08,12.64,1.39,42% Male - 49% Female,Kamasutra,Yes
+2018,South Africa,1119,2424.6598392845585,No,8.1,Non-Latex,30.74,54.38,59.64,69.56,0.81,73% Male - 56% Female,Trojan,No
+2018,South Africa,1277,1894.9292046896078,Yes,9.51,Ultra-Thin,88.06,14.18,46.98,43.73,1.37,54% Male - 35% Female,Skyn,No
+2018,South Africa,1889,6458.9113739864915,No,9.3,Textured,61.15,60.92,57.83,15.69,0.42,44% Male - 27% Female,Manforce,No
+2018,South Africa,1837,2524.4849123073463,No,2.17,Textured,77.86,46.28,57.4,33.99,1.47,69% Male - 60% Female,Manforce,No
+2018,China,755,2012.024819874481,Yes,5.79,Textured,61.25,55.44,94.98,11.91,1.56,71% Male - 25% Female,Okamoto,Yes
+2018,China,2015,2058.283757072844,Yes,5.1,Textured,29.58,63.36,81.61,44.7,1.48,67% Male - 56% Female,Skyn,Yes
+2018,China,316,519.4289638241736,No,6.44,Non-Latex,50.39,67.39,31.73,46.51,0.65,61% Male - 20% Female,Manforce,No
+2018,China,879,3060.187380987685,No,7.09,Ultra-Thin,41.23,6.19,77.91,11.68,2.38,64% Male - 52% Female,Trojan,No
+2018,China,1534,4130.330754291649,No,6.76,Textured,92.53,46.95,51.09,18.37,1.26,43% Male - 54% Female,Skyn,No
+2018,Japan,2167,6153.020027438158,Yes,8.73,Textured,62.7,48.78,71.16,69.02,0.72,49% Male - 59% Female,Durex,No
+2018,Japan,205,517.2377589986866,No,3.07,Latex,24.64,18.54,85.88,50.79,0.5,46% Male - 32% Female,Manforce,No
+2018,Japan,1118,2565.4330917968678,Yes,6.3,Textured,37.09,35.78,25.97,52.17,0.69,62% Male - 52% Female,Okamoto,No
+2018,Japan,559,666.3767793659457,Yes,4.73,Ultra-Thin,48.14,59.44,74.12,27.37,1.73,71% Male - 31% Female,Trojan,No
+2018,Japan,1803,3351.204463952785,No,5.59,Textured,45.37,27.94,88.75,58.88,0.42,67% Male - 44% Female,Kamasutra,No
+2018,France,2234,5706.868599962814,Yes,3.32,Textured,81.47,3.2,58.42,46.94,1.49,71% Male - 30% Female,Skyn,Yes
+2018,France,1153,1766.529389597251,Yes,8.89,Textured,73.58,31.76,60.67,52.02,2.05,42% Male - 34% Female,Manforce,No
+2018,France,1380,2774.1214657591377,Yes,3.39,Latex,42.09,22.55,70.98,65.86,1.65,49% Male - 59% Female,Skyn,Yes
+2018,France,625,2078.993517943444,No,7.03,Ultra-Thin,35.38,26.71,43.92,65.03,1.66,42% Male - 41% Female,Trojan,Yes
+2018,France,933,2440.4420127542476,No,3.52,Latex,92.69,54.22,71.04,17.05,0.49,75% Male - 29% Female,Durex,No
+2018,Australia,56,41.48146034045557,No,9.09,Ultra-Thin,25.38,58.86,67.47,16.61,1.61,48% Male - 44% Female,Skyn,No
+2018,Australia,1946,1650.1430107620101,Yes,5.58,Non-Latex,26.28,47.66,25.56,54.13,2.3,75% Male - 44% Female,Skyn,No
+2018,Australia,784,508.20084316943013,Yes,9.42,Non-Latex,43.2,32.63,96.97,52.59,0.84,46% Male - 56% Female,Manforce,Yes
+2018,Australia,250,535.7629572521016,Yes,7.14,Non-Latex,68.59,62.19,73.87,57.01,2.44,49% Male - 54% Female,Manforce,Yes
+2018,Australia,990,1802.7989854992713,Yes,3.44,Latex,72.79,31.3,50.02,19.66,1.79,46% Male - 29% Female,Okamoto,Yes
+2019,USA,792,1163.802576640575,Yes,8.51,Ultra-Thin,41.98,5.8,77.33,43.34,0.95,56% Male - 26% Female,Manforce,No
+2019,USA,2099,1826.524359633791,Yes,3.3,Ultra-Thin,35.09,16.43,77.4,10.61,1.93,40% Male - 25% Female,LifeStyles,Yes
+2019,USA,312,859.975760975728,Yes,5.63,Textured,67.36,16.24,54.99,38.05,0.3,70% Male - 55% Female,Trojan,No
+2019,USA,2113,4453.5586942880345,Yes,8.05,Textured,34.42,23.77,79.06,13.87,1.63,52% Male - 22% Female,Manforce,No
+2019,USA,2326,1736.0913692825377,No,3.56,Non-Latex,82.61,16.16,47.71,8.65,0.85,75% Male - 36% Female,LifeStyles,Yes
+2019,India,1074,2510.2465613501304,No,2.05,Ultra-Thin,64.59,61.45,92.41,54.82,0.4,78% Male - 26% Female,Trojan,No
+2019,India,259,219.8723676804016,No,7.45,Textured,63.75,67.22,62.64,26.43,0.96,68% Male - 43% Female,Okamoto,Yes
+2019,India,53,71.73426105973684,Yes,2.36,Latex,75.65,60.91,49.08,34.83,1.9,51% Male - 33% Female,LifeStyles,Yes
+2019,India,58,149.76510755773114,No,8.5,Non-Latex,55.12,35.45,76.27,64.59,0.23,68% Male - 48% Female,LifeStyles,Yes
+2019,India,549,470.10445177107056,Yes,4.15,Latex,20.75,28.26,96.26,56.32,0.86,66% Male - 48% Female,LifeStyles,Yes
+2019,UK,918,2036.8812138571275,No,7.96,Ultra-Thin,65.58,39.53,69.79,61.67,1.75,78% Male - 55% Female,Trojan,Yes
+2019,UK,579,1955.481910093525,Yes,3.24,Latex,66.22,68.48,75.6,7.13,2.07,47% Male - 50% Female,Manforce,No
+2019,UK,835,2608.2414613146425,Yes,2.38,Textured,87.96,47.61,83.01,51.05,1.12,76% Male - 51% Female,Durex,No
+2019,UK,291,706.3618242375067,No,4.2,Non-Latex,55.17,6.76,52.79,32.23,1.55,53% Male - 40% Female,Kamasutra,No
+2019,UK,681,1170.7194595785074,Yes,6.32,Latex,92.8,47.81,25.35,67.4,0.98,49% Male - 40% Female,Skyn,Yes
+2019,Brazil,1935,3397.6064187361444,Yes,5.77,Ultra-Thin,87.95,23.94,97.36,59.56,2.26,41% Male - 42% Female,Kamasutra,No
+2019,Brazil,1582,5061.1944509614095,No,6.22,Latex,32.46,10.47,38.53,31.07,1.73,74% Male - 45% Female,Durex,No
+2019,Brazil,2500,5044.345884020195,No,4.06,Textured,82.99,27.34,40.18,32.25,0.8,63% Male - 38% Female,LifeStyles,No
+2019,Brazil,312,191.20310716327936,No,6.26,Non-Latex,36.22,20.58,88.65,15.14,0.87,78% Male - 20% Female,Manforce,Yes
+2019,Brazil,1801,5260.537636265012,Yes,8.07,Ultra-Thin,86.97,61.4,96.39,52.33,0.65,56% Male - 58% Female,LifeStyles,No
+2019,Germany,1892,6251.059678302047,No,2.41,Non-Latex,64.42,6.85,61.85,24.46,1.39,69% Male - 31% Female,Durex,No
+2019,Germany,911,585.22981633684,No,5.41,Latex,60.82,56.44,51.39,20.16,0.3,59% Male - 60% Female,Durex,No
+2019,Germany,2102,7160.352396481305,Yes,5.3,Non-Latex,84.23,7.77,42.1,21.99,0.37,58% Male - 32% Female,Trojan,Yes
+2019,Germany,189,479.81381951483127,Yes,8.09,Latex,59.51,45.1,93.23,63.3,1.42,69% Male - 54% Female,LifeStyles,Yes
+2019,Germany,2412,5618.809323725305,Yes,5.32,Textured,65.23,44.45,57.29,57.99,1.3,69% Male - 23% Female,LifeStyles,No
+2019,South Africa,880,732.232037094317,No,8.94,Textured,25.88,23.93,91.41,50.34,0.68,80% Male - 32% Female,LifeStyles,Yes
+2019,South Africa,591,1182.4700942601003,No,9.77,Non-Latex,50.49,60.12,27.06,37.73,0.7,68% Male - 56% Female,Manforce,No
+2019,South Africa,2119,1386.014842592319,Yes,8.98,Latex,42.33,43.45,26.51,12.14,1.03,49% Male - 33% Female,Okamoto,No
+2019,South Africa,831,2334.2538248140745,Yes,8.82,Textured,86.55,3.07,95.43,13.16,1.75,53% Male - 25% Female,Kamasutra,No
+2019,South Africa,153,398.31507783233747,No,9.59,Ultra-Thin,63.98,29.48,98.63,30.64,0.43,49% Male - 20% Female,Okamoto,Yes
+2019,China,2192,3488.7563485128253,No,2.89,Non-Latex,60.27,45.48,31.6,36.58,1.19,74% Male - 47% Female,Skyn,Yes
+2019,China,553,1910.210105232459,No,2.61,Latex,37.19,32.52,96.25,27.94,1.1,65% Male - 23% Female,LifeStyles,No
+2019,China,224,363.43993758067563,Yes,8.78,Ultra-Thin,75.94,17.66,83.0,49.69,0.37,64% Male - 52% Female,Manforce,No
+2019,China,592,1781.1573472174564,No,6.04,Non-Latex,86.97,18.8,84.42,63.57,0.8,70% Male - 29% Female,Durex,No
+2019,China,1701,4188.240140522707,Yes,3.38,Latex,52.47,9.51,72.38,69.76,0.33,49% Male - 49% Female,Trojan,No
+2019,Japan,1546,1799.324727723803,No,5.43,Latex,51.32,8.38,30.02,52.65,1.78,64% Male - 51% Female,Skyn,No
+2019,Japan,1122,3463.2404157580236,No,3.98,Latex,88.14,56.32,61.48,35.0,1.2,78% Male - 26% Female,Trojan,No
+2019,Japan,979,3176.84585023293,No,8.63,Textured,82.39,7.82,76.43,64.86,1.48,71% Male - 51% Female,LifeStyles,Yes
+2019,Japan,1818,1013.8547250606192,No,4.37,Textured,70.39,21.6,55.57,34.67,1.76,48% Male - 28% Female,Skyn,Yes
+2019,Japan,907,664.3377879554433,No,8.7,Non-Latex,34.82,20.38,74.59,68.65,0.53,61% Male - 36% Female,Durex,No
+2019,France,2227,7220.2917080802945,Yes,8.68,Ultra-Thin,16.13,27.66,84.19,17.58,1.31,77% Male - 54% Female,Manforce,No
+2019,France,1034,1911.6467144258816,Yes,7.7,Ultra-Thin,78.33,24.17,30.16,25.3,0.33,46% Male - 21% Female,LifeStyles,No
+2019,France,1265,1477.9107188176301,Yes,3.53,Ultra-Thin,27.67,7.53,26.44,63.65,2.38,77% Male - 47% Female,Trojan,No
+2019,France,2244,2941.6414928566296,No,4.24,Latex,75.94,60.54,26.71,47.85,1.85,46% Male - 28% Female,Kamasutra,No
+2019,France,824,412.22120151667264,No,3.42,Ultra-Thin,63.97,40.98,69.14,65.25,2.38,61% Male - 53% Female,Okamoto,Yes
+2019,Australia,2459,3691.9647214262777,No,9.81,Ultra-Thin,19.95,42.25,26.92,24.03,1.9,40% Male - 36% Female,Okamoto,Yes
+2019,Australia,1160,1260.240052583856,Yes,9.47,Textured,59.27,31.11,78.24,32.23,1.87,42% Male - 44% Female,Trojan,No
+2019,Australia,2248,5178.539858647065,No,6.99,Ultra-Thin,45.89,18.26,52.66,54.04,1.43,66% Male - 34% Female,Durex,Yes
+2019,Australia,199,629.1594222768331,No,5.35,Latex,76.4,68.21,39.46,28.83,0.33,46% Male - 41% Female,Okamoto,Yes
+2019,Australia,253,743.0119957844831,No,8.74,Latex,63.88,43.48,96.69,34.61,0.33,52% Male - 43% Female,Okamoto,No
+2020,USA,1902,6216.631961558715,No,9.37,Ultra-Thin,30.47,22.27,54.67,66.49,1.06,44% Male - 48% Female,Okamoto,No
+2020,USA,1994,2226.0408217030604,No,7.35,Textured,23.24,60.51,93.97,69.96,0.86,58% Male - 50% Female,Kamasutra,No
+2020,USA,1558,3720.057521644524,No,2.93,Non-Latex,28.26,41.58,71.46,52.67,1.04,75% Male - 33% Female,LifeStyles,Yes
+2020,USA,1519,2622.033060453846,No,2.8,Non-Latex,91.89,48.15,51.09,51.62,1.26,47% Male - 58% Female,Manforce,No
+2020,USA,262,898.5665124307814,Yes,2.79,Non-Latex,31.46,55.96,44.75,19.75,0.44,67% Male - 25% Female,Okamoto,Yes
+2020,India,1509,4449.058564678712,No,4.38,Non-Latex,28.87,3.91,73.79,63.25,0.87,80% Male - 46% Female,Okamoto,No
+2020,India,793,2421.9981792078866,No,7.77,Latex,23.1,7.93,31.25,66.84,0.94,52% Male - 40% Female,Trojan,Yes
+2020,India,527,600.6334807584561,Yes,9.26,Ultra-Thin,30.58,14.51,30.75,26.6,1.44,50% Male - 47% Female,Durex,No
+2020,India,1436,2784.396110686446,Yes,2.92,Latex,70.82,37.73,69.85,30.11,0.74,69% Male - 58% Female,Trojan,No
+2020,India,1085,2130.4518239669655,Yes,3.15,Textured,32.16,34.52,73.7,62.77,0.97,66% Male - 51% Female,Skyn,Yes
+2020,UK,847,2890.4220604750976,No,7.02,Latex,21.44,14.42,50.86,35.34,0.29,51% Male - 43% Female,Kamasutra,No
+2020,UK,2466,1829.9102162549357,No,6.19,Ultra-Thin,92.11,49.21,80.59,26.44,0.47,76% Male - 22% Female,Manforce,Yes
+2020,UK,1873,4245.543991632234,No,2.21,Textured,50.81,2.39,96.73,53.25,0.52,79% Male - 42% Female,Trojan,No
+2020,UK,1563,1557.1818015943215,Yes,5.14,Latex,56.9,26.36,33.49,36.77,0.37,74% Male - 41% Female,LifeStyles,No
+2020,UK,2405,2199.475084898354,Yes,3.01,Ultra-Thin,38.63,9.22,77.34,61.71,1.13,58% Male - 51% Female,Okamoto,Yes
+2020,Brazil,2051,2630.4232333533764,No,9.72,Ultra-Thin,85.37,2.33,28.86,5.31,1.49,61% Male - 26% Female,Manforce,No
+2020,Brazil,1349,1907.8264352477215,No,7.35,Latex,26.42,14.16,84.86,62.94,1.05,70% Male - 52% Female,Durex,Yes
+2020,Brazil,74,220.68117780740468,Yes,4.05,Ultra-Thin,16.3,17.13,77.5,6.51,0.32,71% Male - 20% Female,Okamoto,No
+2020,Brazil,1846,2848.88419008811,No,3.66,Textured,88.75,2.63,72.0,12.08,0.74,44% Male - 59% Female,Durex,Yes
+2020,Brazil,1772,1503.6092182926745,No,6.07,Textured,47.49,27.79,57.12,19.19,0.66,64% Male - 23% Female,Durex,No
+2020,Germany,765,2328.6338848750097,No,5.89,Textured,54.2,51.5,80.02,52.47,1.09,49% Male - 29% Female,Skyn,No
+2020,Germany,1234,4075.920100474136,Yes,5.26,Ultra-Thin,81.07,9.31,26.61,25.32,1.53,40% Male - 21% Female,Durex,No
+2020,Germany,2108,2762.9117828138346,No,4.89,Non-Latex,16.46,48.17,79.36,47.02,0.62,45% Male - 46% Female,Trojan,No
+2020,Germany,1698,4877.158498160996,No,9.38,Textured,79.42,28.82,68.27,54.16,0.39,46% Male - 27% Female,Kamasutra,Yes
+2020,Germany,1160,1994.4495487450392,Yes,9.08,Textured,30.11,34.94,53.15,11.2,1.02,64% Male - 42% Female,Okamoto,Yes
+2020,South Africa,706,736.5198207141808,No,5.59,Non-Latex,77.73,36.83,86.18,20.2,1.5,71% Male - 60% Female,Durex,No
+2020,South Africa,1914,4939.070919053537,Yes,7.29,Latex,48.41,60.93,31.78,18.77,0.78,53% Male - 58% Female,Skyn,No
+2020,South Africa,68,216.24554656048775,No,8.77,Ultra-Thin,47.63,59.86,53.62,35.25,0.23,57% Male - 40% Female,Manforce,No
+2020,South Africa,1875,5332.951728088949,No,6.89,Latex,75.84,38.96,75.19,52.73,1.86,52% Male - 50% Female,Kamasutra,No
+2020,South Africa,2310,6209.218907053199,No,8.73,Non-Latex,32.62,15.9,83.97,38.9,2.01,64% Male - 45% Female,Kamasutra,Yes
+2020,China,2073,4660.266002706262,Yes,5.42,Latex,70.1,2.31,26.63,8.47,1.05,73% Male - 57% Female,Kamasutra,No
+2020,China,2149,4428.208359709818,Yes,2.16,Ultra-Thin,39.24,5.34,67.98,60.98,1.5,55% Male - 51% Female,Okamoto,No
+2020,China,982,1049.1274950089985,Yes,3.17,Ultra-Thin,71.02,10.23,82.91,8.51,2.04,63% Male - 23% Female,Trojan,Yes
+2020,China,2473,2036.798725760078,Yes,2.02,Textured,86.49,27.33,75.1,58.46,1.03,47% Male - 40% Female,Skyn,No
+2020,China,1195,3702.5247750343565,No,8.74,Latex,51.51,9.25,59.52,67.19,1.6,63% Male - 24% Female,Trojan,No
+2020,Japan,575,1067.940171344997,Yes,7.99,Ultra-Thin,59.79,63.48,56.34,26.99,1.92,47% Male - 36% Female,Kamasutra,Yes
+2020,Japan,74,236.0321308652181,No,8.48,Latex,23.45,35.45,46.91,17.57,2.24,65% Male - 52% Female,Trojan,Yes
+2020,Japan,1072,1967.0562130676055,No,6.67,Non-Latex,71.04,5.55,26.72,39.26,0.62,47% Male - 34% Female,Skyn,No
+2020,Japan,119,198.35674610005483,Yes,8.31,Non-Latex,68.31,19.87,51.88,60.52,1.97,63% Male - 33% Female,Manforce,No
+2020,Japan,1935,4656.377175610842,No,5.8,Textured,31.25,22.69,75.52,17.18,0.99,49% Male - 20% Female,LifeStyles,Yes
+2020,France,662,1838.5012340776805,Yes,9.65,Textured,37.84,27.33,65.07,52.39,1.17,47% Male - 54% Female,LifeStyles,No
+2020,France,388,1322.8255255030367,Yes,8.92,Textured,85.06,55.0,92.46,48.81,1.51,46% Male - 58% Female,Kamasutra,Yes
+2020,France,475,513.8824192995113,No,3.69,Latex,56.87,56.14,52.89,34.57,2.07,76% Male - 51% Female,Manforce,No
+2020,France,1115,3547.8763563830807,No,3.61,Latex,43.64,8.94,95.39,26.17,2.16,69% Male - 58% Female,Kamasutra,Yes
+2020,France,70,242.63216208508132,No,6.83,Latex,68.97,16.42,86.24,40.17,0.42,67% Male - 45% Female,Durex,No
+2020,Australia,1125,1915.3342293316687,No,6.88,Latex,93.83,20.92,82.96,28.22,2.13,73% Male - 22% Female,Kamasutra,Yes
+2020,Australia,1465,3215.165429688223,Yes,7.32,Textured,81.24,22.38,84.51,14.98,2.36,75% Male - 52% Female,Okamoto,No
+2020,Australia,998,1724.3767966187847,Yes,8.94,Ultra-Thin,50.86,55.93,86.5,66.72,2.48,71% Male - 22% Female,Manforce,No
+2020,Australia,133,168.45354251543304,No,9.45,Non-Latex,24.3,14.38,34.17,44.32,1.89,60% Male - 39% Female,Durex,No
+2020,Australia,751,2561.885727498068,Yes,5.76,Latex,39.58,36.77,59.32,60.93,1.09,76% Male - 59% Female,Durex,Yes
+2021,USA,1949,2565.810308535532,No,7.53,Non-Latex,76.41,4.07,58.86,49.29,1.74,67% Male - 41% Female,Skyn,No
+2021,USA,2200,3559.649174238645,Yes,2.08,Non-Latex,66.77,35.96,29.58,42.12,0.68,58% Male - 21% Female,Trojan,No
+2021,USA,368,581.9406505787236,Yes,6.49,Ultra-Thin,59.14,13.1,38.05,56.9,0.76,52% Male - 26% Female,Okamoto,Yes
+2021,USA,419,495.99313839889004,No,9.67,Textured,87.42,19.35,74.55,69.49,2.04,51% Male - 53% Female,Manforce,Yes
+2021,USA,1701,3815.4157423205925,Yes,8.08,Non-Latex,61.52,44.21,96.09,41.37,2.05,76% Male - 56% Female,Okamoto,Yes
+2021,India,736,557.6292827676524,Yes,8.2,Textured,54.08,4.49,39.06,40.17,0.96,80% Male - 41% Female,LifeStyles,No
+2021,India,440,1453.6312479546766,No,8.45,Ultra-Thin,55.92,21.8,43.9,66.26,2.34,70% Male - 22% Female,LifeStyles,Yes
+2021,India,418,1373.76410106435,No,4.46,Non-Latex,60.93,66.52,70.59,38.75,2.32,52% Male - 40% Female,Trojan,No
+2021,India,2057,2068.114513436365,Yes,5.13,Non-Latex,75.15,30.81,88.27,17.7,0.49,77% Male - 31% Female,Manforce,No
+2021,India,2153,1232.2475863170594,No,5.97,Non-Latex,71.09,37.04,42.87,18.31,0.51,63% Male - 39% Female,Manforce,Yes
+2021,UK,1721,4234.683115947515,Yes,2.19,Latex,77.67,20.33,65.95,56.04,1.82,48% Male - 25% Female,Okamoto,No
+2021,UK,2256,6157.648126173146,No,4.61,Textured,47.09,32.37,42.83,27.97,1.79,53% Male - 58% Female,Okamoto,Yes
+2021,UK,479,272.935678355563,No,6.47,Non-Latex,92.66,34.51,82.04,8.18,1.71,46% Male - 39% Female,Kamasutra,No
+2021,UK,802,2432.1121996606835,No,3.47,Textured,69.66,5.06,26.87,41.79,1.85,40% Male - 29% Female,Trojan,Yes
+2021,UK,1500,4206.013541135739,No,9.36,Ultra-Thin,81.89,25.08,82.11,51.71,2.46,56% Male - 55% Female,Okamoto,Yes
+2021,Brazil,825,2076.6616107474842,No,3.25,Latex,26.47,58.14,44.11,33.37,1.72,53% Male - 39% Female,Okamoto,Yes
+2021,Brazil,1040,653.9927229572154,Yes,5.72,Latex,57.7,9.21,76.69,64.34,2.18,56% Male - 27% Female,Trojan,No
+2021,Brazil,2297,5014.701522639468,Yes,9.73,Textured,77.05,50.84,73.65,67.44,1.58,47% Male - 23% Female,Durex,Yes
+2021,Brazil,2312,7853.439272386064,Yes,4.55,Latex,94.55,49.37,52.19,56.65,0.95,60% Male - 28% Female,Skyn,Yes
+2021,Brazil,609,1587.49986206649,Yes,7.76,Latex,82.52,54.25,27.34,44.87,0.44,68% Male - 29% Female,Durex,Yes
+2021,Germany,737,473.85214923708304,Yes,2.28,Textured,35.34,35.12,44.79,55.84,2.05,78% Male - 47% Female,Skyn,Yes
+2021,Germany,563,747.2264874327601,No,5.1,Textured,56.77,2.96,50.42,47.39,2.46,46% Male - 37% Female,Kamasutra,Yes
+2021,Germany,1212,1527.2277423607193,No,3.07,Non-Latex,69.97,7.32,75.94,33.05,1.85,73% Male - 32% Female,Durex,Yes
+2021,Germany,2438,8333.71183460743,No,9.35,Latex,87.87,29.71,91.79,52.23,2.11,52% Male - 49% Female,LifeStyles,Yes
+2021,Germany,2063,6161.98217856837,Yes,3.63,Textured,39.1,37.4,76.12,21.68,2.24,79% Male - 45% Female,Skyn,No
+2021,South Africa,2019,4298.779426241736,Yes,3.95,Ultra-Thin,47.65,7.19,58.07,7.24,2.19,69% Male - 48% Female,Okamoto,Yes
+2021,South Africa,1783,3577.6923039362023,No,8.95,Latex,34.6,40.03,77.11,37.32,0.72,47% Male - 55% Female,Okamoto,Yes
+2021,South Africa,383,331.79517075765096,No,9.68,Textured,21.31,51.52,83.07,48.81,2.26,42% Male - 42% Female,Skyn,No
+2021,South Africa,1168,3369.9879365464594,Yes,9.51,Textured,74.91,12.53,77.57,34.18,1.87,80% Male - 34% Female,Okamoto,Yes
+2021,South Africa,1898,1675.448690390456,Yes,8.69,Textured,42.71,69.61,78.42,8.96,1.04,48% Male - 46% Female,Okamoto,Yes
+2021,China,1098,2533.6526163170106,No,4.27,Latex,30.2,63.74,28.36,13.14,1.55,47% Male - 60% Female,LifeStyles,No
+2021,China,719,1800.0516368243439,No,7.22,Textured,31.15,26.37,82.96,62.62,1.15,52% Male - 51% Female,Kamasutra,No
+2021,China,2417,6271.333748959983,No,7.24,Ultra-Thin,80.52,55.27,67.27,24.02,0.24,45% Male - 24% Female,LifeStyles,No
+2021,China,972,1063.9888590074909,No,2.69,Textured,53.82,44.51,78.08,8.58,1.9,43% Male - 37% Female,Durex,No
+2021,China,1343,4475.528442327931,No,8.37,Ultra-Thin,58.56,42.34,98.7,13.47,0.68,57% Male - 57% Female,Kamasutra,No
+2021,Japan,2151,5603.119045234513,No,6.1,Textured,89.83,38.51,90.79,37.34,2.16,62% Male - 20% Female,Durex,No
+2021,Japan,1049,2161.587434003325,No,9.57,Textured,40.03,28.61,85.42,55.97,1.11,59% Male - 34% Female,LifeStyles,Yes
+2021,Japan,1283,1319.5089609536267,No,6.21,Ultra-Thin,41.15,68.46,82.29,15.21,1.06,51% Male - 20% Female,Durex,No
+2021,Japan,2379,7653.737502420354,Yes,5.82,Textured,82.89,15.9,66.0,56.94,1.35,58% Male - 52% Female,Durex,Yes
+2021,Japan,1285,2628.5898290632113,No,3.16,Textured,47.86,44.16,36.02,52.35,1.54,58% Male - 60% Female,Skyn,No
+2021,France,51,174.5882387290991,No,4.31,Latex,16.21,49.93,65.94,42.02,0.23,78% Male - 58% Female,Manforce,No
+2021,France,646,1154.2651938086442,Yes,2.42,Textured,81.44,56.5,63.73,37.95,0.29,40% Male - 36% Female,Okamoto,Yes
+2021,France,88,51.82889721326961,No,3.24,Textured,82.92,33.84,75.74,12.47,0.37,61% Male - 54% Female,LifeStyles,Yes
+2021,France,520,1308.0266826892275,No,7.47,Non-Latex,25.11,24.63,91.65,9.14,0.27,70% Male - 46% Female,Skyn,No
+2021,France,1370,943.3018768009988,No,6.15,Non-Latex,70.54,31.2,90.22,68.0,0.39,73% Male - 24% Female,Durex,Yes
+2021,Australia,477,1525.6967227149714,No,8.9,Latex,25.38,46.33,40.56,28.31,1.15,44% Male - 39% Female,Skyn,Yes
+2021,Australia,2083,3701.3630822270834,Yes,2.52,Textured,59.13,43.59,67.58,57.23,0.79,60% Male - 35% Female,Skyn,Yes
+2021,Australia,1246,1177.8887608759821,No,6.14,Latex,57.85,66.05,86.22,7.12,1.69,78% Male - 40% Female,Kamasutra,Yes
+2021,Australia,602,688.4345020124949,No,9.91,Ultra-Thin,35.69,26.32,76.36,14.68,2.25,65% Male - 35% Female,Trojan,Yes
+2021,Australia,1116,3204.325208186447,No,9.37,Ultra-Thin,28.98,43.56,93.52,36.13,1.5,58% Male - 32% Female,Trojan,No
+2022,USA,712,2467.585961650504,No,2.21,Latex,48.32,67.25,26.7,24.88,1.51,53% Male - 54% Female,Manforce,Yes
+2022,USA,593,1846.0529201863696,No,8.53,Textured,94.83,17.88,83.94,28.97,2.3,54% Male - 55% Female,Kamasutra,Yes
+2022,USA,2303,4362.635718600692,Yes,7.72,Textured,60.4,64.54,87.22,18.17,2.15,53% Male - 28% Female,Okamoto,Yes
+2022,USA,2056,2453.2258094738813,No,3.71,Ultra-Thin,45.53,27.67,56.04,44.4,1.95,41% Male - 32% Female,Manforce,No
+2022,USA,2292,7013.414873061871,Yes,7.08,Textured,85.49,64.1,74.18,23.56,2.24,68% Male - 55% Female,Skyn,Yes
+2022,India,298,179.0432152757007,Yes,3.8,Textured,94.46,44.19,41.46,66.37,2.14,80% Male - 56% Female,Kamasutra,Yes
+2022,India,1503,2240.18929907658,Yes,7.98,Latex,39.21,58.33,55.12,47.19,2.48,80% Male - 39% Female,LifeStyles,No
+2022,India,1560,1377.6426656068502,No,2.66,Textured,77.71,13.69,34.49,6.44,1.94,76% Male - 36% Female,Kamasutra,Yes
+2022,India,1147,2359.9423671328836,No,7.31,Textured,52.65,39.57,34.38,20.45,0.62,46% Male - 40% Female,Skyn,No
+2022,India,2007,1308.9464883724318,No,9.37,Latex,66.34,45.01,58.73,38.67,1.08,70% Male - 25% Female,Kamasutra,Yes
+2022,UK,2081,6930.320905305178,No,9.96,Textured,85.82,22.33,28.2,58.59,1.68,67% Male - 49% Female,Kamasutra,No
+2022,UK,1663,1096.7043795543348,Yes,9.11,Textured,20.54,26.94,26.36,33.29,0.69,52% Male - 24% Female,LifeStyles,Yes
+2022,UK,695,1022.0134577292098,Yes,6.79,Ultra-Thin,73.24,63.32,37.25,37.82,1.09,46% Male - 52% Female,Manforce,No
+2022,UK,113,208.41502691432288,Yes,9.01,Non-Latex,27.53,11.79,63.46,24.34,1.21,74% Male - 44% Female,Skyn,Yes
+2022,UK,2203,5857.911889864214,No,7.87,Non-Latex,75.78,16.9,91.43,34.16,2.36,71% Male - 59% Female,Manforce,Yes
+2022,Brazil,822,2437.5843541948675,No,2.35,Ultra-Thin,80.82,25.66,97.19,12.6,0.52,68% Male - 52% Female,Kamasutra,Yes
+2022,Brazil,156,81.30509082694796,Yes,5.7,Non-Latex,88.32,5.94,40.84,51.71,2.4,65% Male - 21% Female,Okamoto,Yes
+2022,Brazil,2352,7061.263675023778,Yes,9.12,Non-Latex,59.39,51.07,93.78,60.68,1.42,49% Male - 42% Female,Manforce,Yes
+2022,Brazil,517,604.3644516554272,No,9.16,Ultra-Thin,79.28,51.29,43.6,17.5,1.39,54% Male - 52% Female,Kamasutra,Yes
+2022,Brazil,2354,3477.3344071978822,Yes,9.59,Ultra-Thin,78.82,18.69,79.26,40.75,0.45,46% Male - 60% Female,LifeStyles,No
+2022,Germany,772,2010.2989325879648,No,8.34,Textured,35.31,58.71,38.63,33.52,0.2,51% Male - 41% Female,Kamasutra,Yes
+2022,Germany,423,755.05947616781,No,9.01,Ultra-Thin,39.72,46.35,45.0,54.89,1.87,76% Male - 45% Female,Manforce,No
+2022,Germany,312,171.047721470202,Yes,5.05,Textured,26.72,52.72,83.32,8.19,1.88,60% Male - 38% Female,Kamasutra,Yes
+2022,Germany,401,580.5620646478817,No,2.83,Latex,65.95,42.2,51.31,44.56,1.16,61% Male - 27% Female,Kamasutra,No
+2022,Germany,1001,3376.1148231992815,Yes,2.17,Ultra-Thin,18.91,31.03,59.39,43.92,1.34,62% Male - 22% Female,Trojan,Yes
+2022,South Africa,939,749.8021724797308,No,4.08,Latex,37.38,40.11,61.54,60.37,2.45,57% Male - 57% Female,LifeStyles,Yes
+2022,South Africa,2140,7444.159989835357,Yes,4.08,Ultra-Thin,38.72,38.55,80.93,25.97,1.02,68% Male - 48% Female,Durex,Yes
+2022,South Africa,2435,7918.817480261324,Yes,7.75,Textured,46.55,51.09,30.12,5.5,1.9,55% Male - 45% Female,Skyn,Yes
+2022,South Africa,1931,4365.333150769036,Yes,7.11,Textured,67.68,38.67,77.11,40.68,2.14,76% Male - 29% Female,Skyn,No
+2022,South Africa,1667,2649.646751393372,No,7.74,Textured,43.32,14.31,71.72,63.01,0.6,79% Male - 45% Female,LifeStyles,No
+2022,China,261,449.89024244400304,No,7.92,Textured,85.24,67.55,50.34,31.47,1.11,43% Male - 43% Female,Durex,No
+2022,China,650,1620.823371856926,No,8.54,Latex,61.26,38.26,49.94,15.58,1.13,53% Male - 28% Female,LifeStyles,No
+2022,China,1583,2103.5453379468017,Yes,9.96,Latex,94.52,34.53,65.83,56.2,1.06,46% Male - 22% Female,Skyn,No
+2022,China,809,2776.992608587288,Yes,9.76,Non-Latex,35.67,38.01,88.83,48.65,0.27,69% Male - 49% Female,Trojan,No
+2022,China,2257,3764.2372037724754,No,8.06,Non-Latex,54.01,14.58,59.73,10.96,2.38,55% Male - 40% Female,LifeStyles,No
+2022,Japan,2084,1461.819741428773,No,4.28,Non-Latex,79.06,29.33,69.79,64.49,2.29,71% Male - 58% Female,Manforce,Yes
+2022,Japan,843,1828.3344317290594,Yes,2.26,Latex,86.71,17.54,28.19,15.74,1.53,75% Male - 28% Female,Skyn,Yes
+2022,Japan,1622,1525.3362140059328,No,9.44,Latex,18.24,43.33,33.76,30.18,1.83,56% Male - 39% Female,Okamoto,Yes
+2022,Japan,1405,839.4558468155661,Yes,8.27,Ultra-Thin,47.31,4.47,44.0,13.37,1.5,67% Male - 50% Female,LifeStyles,Yes
+2022,Japan,141,344.96310084002675,Yes,6.64,Non-Latex,46.27,14.2,64.71,61.11,0.24,47% Male - 53% Female,LifeStyles,No
+2022,France,138,351.09266606536,No,8.63,Latex,82.33,14.78,78.26,12.77,0.92,49% Male - 32% Female,Okamoto,No
+2022,France,1576,974.5792257322253,No,8.52,Ultra-Thin,44.92,30.74,65.62,66.62,0.62,75% Male - 53% Female,Kamasutra,No
+2022,France,447,793.0373503054889,Yes,8.94,Ultra-Thin,78.42,53.65,46.88,57.59,1.32,77% Male - 20% Female,Skyn,No
+2022,France,2050,2200.522341346829,Yes,5.65,Textured,82.14,46.32,95.72,50.33,1.04,57% Male - 51% Female,Manforce,Yes
+2022,France,1429,4632.950143117739,No,7.54,Latex,29.57,56.81,45.57,15.71,0.82,79% Male - 51% Female,Okamoto,No
+2022,Australia,2387,5732.938843119064,No,2.4,Ultra-Thin,61.94,46.11,73.87,16.16,2.45,48% Male - 49% Female,Kamasutra,No
+2022,Australia,1917,4260.695975716397,Yes,6.76,Latex,35.51,40.67,97.51,58.07,1.41,53% Male - 21% Female,Manforce,No
+2022,Australia,2224,6743.035261937199,Yes,9.8,Latex,41.34,7.5,97.22,13.31,0.66,54% Male - 29% Female,Manforce,Yes
+2022,Australia,939,1292.2674482759612,Yes,6.9,Non-Latex,47.27,48.48,83.63,8.28,1.91,67% Male - 51% Female,Durex,Yes
+2022,Australia,1353,3955.1842458879673,Yes,6.51,Non-Latex,60.32,10.18,96.13,46.93,0.68,59% Male - 24% Female,Okamoto,No
+2023,USA,605,686.9544976728383,No,6.75,Non-Latex,56.62,3.33,88.55,59.22,1.66,71% Male - 59% Female,LifeStyles,No
+2023,USA,1067,1777.2570394518118,No,5.31,Ultra-Thin,66.09,55.6,71.19,10.22,2.2,68% Male - 47% Female,LifeStyles,No
+2023,USA,2161,6803.945729172268,No,5.5,Textured,90.88,47.65,59.7,52.22,1.77,79% Male - 44% Female,Kamasutra,Yes
+2023,USA,1243,2737.561196444447,No,2.01,Ultra-Thin,18.61,61.13,30.87,28.56,1.56,59% Male - 34% Female,Manforce,Yes
+2023,USA,844,2746.324393368708,Yes,3.68,Non-Latex,16.66,67.95,95.44,56.87,0.24,57% Male - 28% Female,Durex,Yes
+2023,India,1570,2652.9476644811816,Yes,6.89,Ultra-Thin,32.14,6.85,59.54,57.14,0.88,74% Male - 42% Female,Durex,No
+2023,India,752,2095.507291539863,Yes,3.57,Ultra-Thin,92.19,8.23,74.33,66.74,2.38,43% Male - 47% Female,Trojan,Yes
+2023,India,1331,4299.655440569004,Yes,4.04,Textured,38.11,50.52,75.89,69.55,1.11,74% Male - 36% Female,Durex,Yes
+2023,India,165,302.973010906192,No,6.49,Ultra-Thin,87.23,61.35,60.33,20.92,1.63,73% Male - 42% Female,Okamoto,No
+2023,India,745,2555.062094470993,No,8.08,Latex,79.35,30.13,95.86,65.9,1.14,60% Male - 57% Female,Okamoto,Yes
+2023,UK,2246,6857.689157559175,No,7.51,Ultra-Thin,78.59,11.73,25.07,5.19,2.27,69% Male - 39% Female,Kamasutra,No
+2023,UK,397,1232.7411843129903,No,9.52,Non-Latex,57.97,67.54,66.22,33.09,0.96,54% Male - 21% Female,Trojan,Yes
+2023,UK,1313,1553.2721859047915,Yes,5.98,Textured,51.69,16.79,31.7,23.32,1.24,50% Male - 35% Female,Trojan,No
+2023,UK,2169,7590.48636767582,Yes,3.43,Ultra-Thin,65.67,37.41,36.04,32.2,2.31,75% Male - 31% Female,Okamoto,No
+2023,UK,2350,4820.1989593403105,Yes,2.9,Latex,26.77,14.99,25.63,7.5,2.34,73% Male - 20% Female,Manforce,No
+2023,Brazil,2325,5850.373866311714,Yes,2.25,Non-Latex,53.22,20.47,49.31,37.27,2.36,80% Male - 53% Female,Kamasutra,No
+2023,Brazil,2218,6899.726170075976,No,5.17,Latex,21.25,40.08,40.13,13.37,0.53,58% Male - 24% Female,Trojan,No
+2023,Brazil,1924,3625.5547114981423,Yes,9.22,Latex,59.84,3.85,35.66,42.87,0.2,72% Male - 22% Female,Trojan,Yes
+2023,Brazil,345,286.1460786908335,No,8.69,Ultra-Thin,66.22,54.83,38.41,66.49,0.34,70% Male - 23% Female,Durex,Yes
+2023,Brazil,1125,840.4351244222054,No,4.76,Non-Latex,58.4,29.53,50.55,22.03,1.69,71% Male - 57% Female,Kamasutra,No
+2023,Germany,2434,8515.005154642928,Yes,5.1,Non-Latex,46.39,41.02,90.49,66.74,1.68,43% Male - 48% Female,Kamasutra,No
+2023,Germany,1018,3024.3564021504176,No,5.39,Latex,31.95,39.81,68.6,66.55,2.31,46% Male - 33% Female,Skyn,No
+2023,Germany,756,432.9220383520929,No,2.72,Latex,36.04,9.78,41.55,52.71,2.46,78% Male - 42% Female,Durex,No
+2023,Germany,676,1154.6928227274757,Yes,9.13,Textured,65.23,11.07,53.57,17.47,2.36,60% Male - 28% Female,LifeStyles,No
+2023,Germany,1423,2415.9116316719874,Yes,6.54,Non-Latex,19.99,15.83,39.82,22.18,2.42,75% Male - 32% Female,Durex,No
+2023,South Africa,999,801.589242722853,No,6.75,Latex,86.1,37.93,57.89,35.52,2.11,43% Male - 29% Female,Trojan,No
+2023,South Africa,1119,3632.9165979708823,Yes,7.26,Ultra-Thin,33.54,54.75,74.69,6.06,2.0,74% Male - 26% Female,Skyn,No
+2023,South Africa,2006,2767.5667635218924,No,9.9,Latex,42.18,53.27,51.45,48.73,1.05,53% Male - 55% Female,Manforce,Yes
+2023,South Africa,1128,1634.0434745739155,Yes,4.92,Latex,24.24,63.22,84.51,25.08,2.19,71% Male - 50% Female,Okamoto,Yes
+2023,South Africa,2479,8536.163259488441,No,8.09,Textured,78.25,21.35,75.08,51.95,1.99,45% Male - 51% Female,Durex,Yes
+2023,China,913,2240.0042116101686,Yes,2.16,Ultra-Thin,63.46,49.69,68.91,21.18,1.01,64% Male - 31% Female,Durex,Yes
+2023,China,1058,631.7327978336473,No,5.25,Non-Latex,91.45,69.71,76.34,42.06,1.0,44% Male - 59% Female,Kamasutra,No
+2023,China,1192,2255.4685608910822,No,3.16,Ultra-Thin,77.96,15.98,83.64,32.74,1.38,80% Male - 30% Female,Manforce,No
+2023,China,420,438.160774513458,No,9.77,Textured,63.16,50.27,55.48,46.35,2.36,49% Male - 30% Female,Skyn,Yes
+2023,China,72,125.35706473292583,No,7.52,Latex,58.91,5.79,49.08,11.27,0.47,74% Male - 43% Female,Manforce,No
+2023,Japan,1305,1818.7360026777155,No,8.55,Non-Latex,82.33,60.23,82.12,41.93,1.9,40% Male - 56% Female,Kamasutra,Yes
+2023,Japan,1499,4347.634176777846,No,7.33,Ultra-Thin,42.6,11.83,51.56,17.89,2.05,55% Male - 33% Female,Trojan,Yes
+2023,Japan,211,231.49329598509354,Yes,8.46,Ultra-Thin,84.63,24.93,85.64,53.13,2.28,66% Male - 39% Female,Trojan,No
+2023,Japan,2115,3327.598151557335,No,7.82,Latex,15.76,28.81,64.09,48.29,1.48,42% Male - 36% Female,Durex,Yes
+2023,Japan,1897,1848.5757971672915,Yes,4.12,Ultra-Thin,15.02,30.99,90.96,23.78,1.63,49% Male - 33% Female,Durex,No
+2023,France,996,546.6587157723022,No,3.09,Non-Latex,43.78,41.84,88.31,20.91,1.95,68% Male - 51% Female,LifeStyles,Yes
+2023,France,1785,6190.686398736869,Yes,9.23,Latex,77.49,67.7,57.82,66.1,0.35,62% Male - 20% Female,Kamasutra,No
+2023,France,1239,2613.0021956815194,Yes,3.24,Ultra-Thin,86.6,34.88,52.37,42.09,0.59,49% Male - 59% Female,Kamasutra,Yes
+2023,France,1429,3644.2863982662275,Yes,9.45,Textured,18.65,66.49,25.4,45.32,2.44,61% Male - 39% Female,Durex,No
+2023,France,1746,2509.5193496521015,Yes,9.41,Non-Latex,64.02,46.49,25.21,47.86,2.13,78% Male - 22% Female,Skyn,No
+2023,Australia,296,642.8126580533685,Yes,6.36,Non-Latex,23.26,36.32,43.16,50.11,0.64,73% Male - 45% Female,Trojan,No
+2023,Australia,2179,1121.4815108088942,No,3.62,Non-Latex,80.55,9.26,37.71,22.43,2.25,75% Male - 36% Female,LifeStyles,Yes
+2023,Australia,669,2031.1342676132563,Yes,8.27,Textured,36.1,55.16,87.67,67.28,0.66,58% Male - 33% Female,Kamasutra,No
+2023,Australia,1111,555.6592179803686,No,8.96,Textured,31.6,69.24,26.16,47.37,1.96,57% Male - 48% Female,Manforce,No
+2023,Australia,1339,2728.6065361629735,Yes,2.27,Textured,35.1,66.8,88.61,50.64,1.05,64% Male - 50% Female,LifeStyles,Yes
+2024,USA,1723,4703.715696265748,No,8.52,Non-Latex,62.4,26.61,45.57,67.39,1.76,76% Male - 34% Female,Kamasutra,Yes
+2024,USA,2451,7129.030945529442,Yes,9.15,Ultra-Thin,23.92,52.19,74.13,5.26,1.4,68% Male - 40% Female,Trojan,Yes
+2024,USA,1783,1692.3494443729662,Yes,5.52,Textured,24.36,44.48,96.88,51.12,2.28,48% Male - 30% Female,LifeStyles,No
+2024,USA,878,2651.828011431623,No,9.71,Non-Latex,41.71,42.93,68.91,59.33,0.94,59% Male - 57% Female,Trojan,Yes
+2024,USA,118,222.00507863214742,No,9.2,Non-Latex,30.84,56.71,29.43,48.96,0.62,43% Male - 48% Female,Kamasutra,No
+2024,India,1616,2914.1420059356665,No,6.29,Textured,47.68,39.57,88.92,27.66,1.95,50% Male - 41% Female,Okamoto,Yes
+2024,India,797,1071.9911493416548,No,4.01,Non-Latex,63.4,47.47,47.01,66.15,2.27,48% Male - 60% Female,Skyn,Yes
+2024,India,2030,3630.6096164080836,Yes,2.66,Latex,48.9,25.61,81.64,25.58,0.97,79% Male - 25% Female,Kamasutra,No
+2024,India,783,1518.5350641505097,No,8.47,Latex,49.28,41.92,98.71,67.5,2.39,73% Male - 42% Female,Okamoto,No
+2024,India,1823,5918.452890242255,Yes,4.82,Textured,46.05,21.69,77.24,16.82,1.7,70% Male - 59% Female,Trojan,No
+2024,UK,1363,2350.0719498177414,Yes,4.24,Textured,52.37,33.26,69.32,47.42,0.84,43% Male - 36% Female,Durex,Yes
+2024,UK,1782,4024.713195651923,No,5.94,Textured,33.81,13.59,49.48,22.23,0.36,48% Male - 46% Female,Durex,No
+2024,UK,1192,2197.962582508905,No,3.69,Non-Latex,28.61,46.39,48.96,46.07,2.05,44% Male - 46% Female,Durex,Yes
+2024,UK,313,320.9300976102402,No,7.12,Non-Latex,16.97,59.01,37.09,15.13,2.04,47% Male - 38% Female,Manforce,No
+2024,UK,1435,2184.904773947053,No,9.98,Non-Latex,86.8,33.74,57.12,32.25,2.14,47% Male - 20% Female,Trojan,No
+2024,Brazil,2259,3826.7828707414465,No,5.64,Latex,77.79,4.72,92.83,69.39,2.4,63% Male - 54% Female,Trojan,No
+2024,Brazil,1114,593.2065101977121,No,2.22,Ultra-Thin,80.9,63.94,40.12,26.31,1.96,58% Male - 34% Female,Kamasutra,Yes
+2024,Brazil,517,1258.3349717828053,No,7.65,Latex,21.55,36.8,28.57,62.4,2.12,50% Male - 38% Female,Trojan,No
+2024,Brazil,587,1518.3413792337765,No,9.68,Latex,82.0,65.35,54.36,28.15,2.33,70% Male - 29% Female,Manforce,Yes
+2024,Brazil,1182,1728.5611472849466,Yes,8.22,Non-Latex,70.07,6.95,89.18,16.39,0.26,50% Male - 35% Female,Manforce,No
+2024,Germany,2437,4507.687818234577,Yes,4.79,Non-Latex,78.55,4.03,29.95,14.39,1.53,70% Male - 43% Female,Durex,Yes
+2024,Germany,1673,2721.1333936635633,Yes,4.95,Non-Latex,82.47,23.93,68.46,30.0,1.21,47% Male - 51% Female,Okamoto,Yes
+2024,Germany,1213,1597.4323279176645,No,2.86,Non-Latex,53.17,4.32,85.4,10.0,2.03,80% Male - 42% Female,Okamoto,Yes
+2024,Germany,1568,4994.1158681269435,No,9.83,Non-Latex,40.33,68.92,79.65,49.35,0.21,78% Male - 44% Female,Okamoto,Yes
+2024,Germany,2170,6243.964105181261,No,7.31,Ultra-Thin,19.68,31.36,56.72,43.2,0.69,75% Male - 42% Female,LifeStyles,No
+2024,South Africa,632,1754.9638322760368,No,9.49,Ultra-Thin,78.45,7.12,58.85,45.35,1.41,53% Male - 59% Female,Durex,No
+2024,South Africa,491,1577.7684583292864,No,3.25,Non-Latex,70.35,63.03,60.64,26.71,2.28,72% Male - 43% Female,Manforce,Yes
+2024,South Africa,920,1613.9017770431176,No,7.98,Textured,61.31,67.27,82.85,42.12,1.59,55% Male - 29% Female,Kamasutra,No
+2024,South Africa,320,946.4500715101603,No,3.74,Textured,31.31,32.74,92.36,27.43,1.01,55% Male - 58% Female,Okamoto,Yes
+2024,South Africa,753,2157.818604160377,Yes,5.31,Non-Latex,24.59,63.46,42.96,52.64,2.47,56% Male - 56% Female,Durex,No
+2024,China,2356,7159.451688192297,Yes,5.89,Textured,39.8,54.43,32.55,47.45,0.76,54% Male - 44% Female,Durex,Yes
+2024,China,1310,2593.348228352223,Yes,2.35,Latex,43.19,31.7,68.32,5.01,1.78,45% Male - 30% Female,LifeStyles,Yes
+2024,China,1943,2548.9728724084057,Yes,3.91,Latex,21.75,4.04,29.83,27.79,1.49,52% Male - 25% Female,Manforce,Yes
+2024,China,177,124.72420659456397,Yes,5.8,Ultra-Thin,27.28,32.92,48.82,44.03,1.71,51% Male - 40% Female,Okamoto,No
+2024,China,2238,4387.017017397065,Yes,6.37,Latex,48.31,10.8,42.39,57.52,1.4,50% Male - 51% Female,Trojan,Yes
+2024,Japan,1306,3999.254005490281,Yes,7.74,Textured,79.94,22.12,63.44,65.48,1.33,54% Male - 52% Female,Skyn,No
+2024,Japan,1715,3051.772181390138,No,5.51,Ultra-Thin,18.43,32.02,51.36,19.77,0.29,64% Male - 42% Female,Okamoto,No
+2024,Japan,2406,3178.836385341267,Yes,9.78,Ultra-Thin,20.81,10.17,86.78,5.25,1.14,70% Male - 30% Female,Kamasutra,No
+2024,Japan,1669,5532.249854891477,No,4.09,Ultra-Thin,30.66,31.22,91.23,19.68,1.96,63% Male - 53% Female,Skyn,Yes
+2024,Japan,599,1566.416895691852,Yes,8.12,Non-Latex,46.77,27.52,28.31,31.41,1.19,55% Male - 20% Female,Trojan,No
+2024,France,755,1297.7887905153086,No,6.71,Latex,53.83,68.66,47.85,5.68,1.34,79% Male - 24% Female,Skyn,Yes
+2024,France,2246,1390.0234674762094,No,6.28,Latex,34.76,52.76,42.5,43.34,2.17,74% Male - 21% Female,LifeStyles,Yes
+2024,France,195,361.49708436910396,Yes,5.44,Textured,68.37,2.55,27.05,49.37,2.11,58% Male - 41% Female,Manforce,No
+2024,France,2186,6132.099959809137,Yes,7.99,Textured,80.66,32.53,98.05,51.48,2.15,44% Male - 40% Female,Durex,No
+2024,France,1785,3937.8299664009996,Yes,3.5,Latex,24.36,7.14,88.98,19.45,0.25,79% Male - 26% Female,Skyn,No
+2024,Australia,1256,3994.298607320185,No,3.59,Latex,73.79,9.04,40.86,43.39,0.65,63% Male - 29% Female,Manforce,No
+2024,Australia,2220,3299.4177707409813,No,5.95,Latex,90.76,40.01,93.79,48.25,1.13,59% Male - 30% Female,Okamoto,Yes
+2024,Australia,761,1917.8611046205015,Yes,9.64,Ultra-Thin,40.57,17.53,52.61,60.87,1.3,78% Male - 41% Female,Kamasutra,Yes
+2024,Australia,585,502.0205078080486,No,7.99,Ultra-Thin,20.05,17.33,43.86,58.79,1.85,79% Male - 36% Female,Kamasutra,Yes
+2024,Australia,740,2308.1841115895822,Yes,2.38,Textured,42.2,10.38,33.07,66.11,0.91,44% Male - 27% Female,LifeStyles,No
+2025,USA,405,1286.6197672992184,Yes,9.68,Textured,74.66,16.45,42.96,6.19,1.6,56% Male - 50% Female,Trojan,Yes
+2025,USA,1067,950.8504994067915,No,7.06,Latex,80.82,31.19,94.32,44.4,0.3,56% Male - 40% Female,Skyn,No
+2025,USA,1901,2391.573695614062,No,7.1,Non-Latex,54.07,47.66,81.15,68.54,1.55,65% Male - 23% Female,Manforce,No
+2025,USA,721,1927.7283487235882,Yes,7.37,Ultra-Thin,48.88,3.79,34.8,68.41,1.28,65% Male - 60% Female,Kamasutra,Yes
+2025,USA,2336,5989.750066964968,No,3.44,Latex,34.31,66.79,58.56,29.98,1.59,63% Male - 59% Female,Manforce,Yes
+2025,India,2459,7868.422413206054,Yes,7.05,Latex,44.57,48.83,42.71,34.05,0.69,74% Male - 53% Female,Durex,No
+2025,India,942,1186.1084810723605,No,7.61,Textured,47.07,55.58,71.2,60.59,1.47,67% Male - 51% Female,LifeStyles,Yes
+2025,India,452,336.60990844263256,No,5.81,Non-Latex,83.18,38.33,63.1,13.56,0.76,63% Male - 50% Female,Skyn,Yes
+2025,India,1254,2350.1677842486292,No,3.3,Latex,27.09,10.61,80.36,25.68,0.57,43% Male - 32% Female,Trojan,Yes
+2025,India,544,1032.8545623159223,Yes,2.55,Textured,49.34,3.46,37.92,17.54,1.18,50% Male - 25% Female,Manforce,Yes
+2025,UK,1982,2844.758563950535,Yes,3.26,Ultra-Thin,86.36,26.1,48.19,57.12,1.51,46% Male - 21% Female,LifeStyles,No
+2025,UK,1278,4287.085529628791,Yes,8.83,Non-Latex,94.97,41.6,77.3,67.97,0.44,49% Male - 55% Female,Kamasutra,No
+2025,UK,1303,939.8279611214172,No,4.6,Non-Latex,37.15,33.31,63.15,39.69,2.19,48% Male - 59% Female,Manforce,Yes
+2025,UK,512,999.2604420436749,No,6.19,Non-Latex,43.65,30.97,64.92,51.2,0.63,56% Male - 27% Female,Okamoto,No
+2025,UK,51,98.28083778478936,Yes,7.51,Textured,70.34,9.81,44.56,7.95,0.29,48% Male - 20% Female,Skyn,No
+2025,Brazil,2489,4838.043658535644,No,5.92,Textured,89.97,58.88,54.04,51.87,0.57,49% Male - 22% Female,Manforce,Yes
+2025,Brazil,331,524.4818139523518,No,5.55,Ultra-Thin,47.02,23.24,68.16,9.21,1.47,74% Male - 32% Female,Manforce,No
+2025,Brazil,2359,4762.1545821497175,No,5.81,Latex,52.39,11.25,28.29,32.7,1.55,74% Male - 51% Female,Manforce,No
+2025,Brazil,1407,4598.863150906772,Yes,2.95,Ultra-Thin,46.1,2.69,66.81,66.92,1.79,76% Male - 49% Female,Okamoto,No
+2025,Brazil,979,1861.3738852141378,No,5.81,Textured,54.46,47.31,76.19,37.42,1.8,79% Male - 31% Female,Durex,No
+2025,Germany,2452,2226.5482687683625,Yes,9.03,Ultra-Thin,57.49,26.67,47.99,49.81,2.0,65% Male - 25% Female,Okamoto,No
+2025,Germany,1940,3054.540310495256,Yes,8.31,Latex,90.74,29.6,83.26,7.88,1.17,57% Male - 50% Female,Skyn,No
+2025,Germany,1960,1071.1560782793138,No,2.98,Textured,31.33,46.29,26.84,37.48,0.8,46% Male - 41% Female,Kamasutra,Yes
+2025,Germany,1763,2814.7177014652852,No,9.42,Textured,65.99,30.01,50.51,31.38,1.24,40% Male - 60% Female,Durex,No
+2025,Germany,1031,2782.179980363145,Yes,8.25,Textured,42.88,67.19,74.39,33.92,1.19,49% Male - 32% Female,Durex,Yes
+2025,South Africa,1250,3421.3755767380044,No,6.94,Non-Latex,23.67,23.86,86.63,54.76,2.42,45% Male - 27% Female,LifeStyles,No
+2025,South Africa,1484,1255.6734193496377,Yes,7.3,Ultra-Thin,30.77,69.54,66.72,52.63,0.69,65% Male - 46% Female,Manforce,Yes
+2025,South Africa,177,372.4090734621318,Yes,3.02,Textured,39.23,41.84,30.91,50.21,1.61,73% Male - 51% Female,Manforce,No
+2025,South Africa,1093,1347.3518606008042,Yes,7.71,Textured,86.5,3.83,39.52,56.84,1.81,41% Male - 46% Female,Okamoto,Yes
+2025,South Africa,1544,1425.3419810238097,Yes,8.54,Ultra-Thin,74.01,51.95,35.26,62.69,0.34,52% Male - 50% Female,Skyn,Yes
+2025,China,1097,2879.944406834898,Yes,6.16,Textured,83.98,5.01,54.71,19.64,1.65,64% Male - 55% Female,Okamoto,Yes
+2025,China,1867,3878.80593952004,Yes,3.84,Textured,53.13,15.92,39.01,67.57,2.02,68% Male - 45% Female,Durex,No
+2025,China,1076,1661.6769454981477,No,8.58,Ultra-Thin,52.52,18.22,44.75,31.31,1.79,74% Male - 58% Female,Okamoto,No
+2025,China,700,416.85928418235824,No,3.8,Ultra-Thin,16.04,53.19,80.26,19.17,2.27,56% Male - 31% Female,Manforce,Yes
+2025,China,235,567.5114695997905,Yes,6.82,Ultra-Thin,79.07,60.56,87.3,63.29,2.43,43% Male - 45% Female,Trojan,No
+2025,Japan,1169,981.6551272718605,Yes,4.18,Ultra-Thin,80.03,31.07,74.08,36.72,1.15,78% Male - 56% Female,Trojan,Yes
+2025,Japan,1134,3436.4952350832164,Yes,7.37,Ultra-Thin,24.56,14.95,53.9,42.48,1.05,76% Male - 57% Female,Skyn,Yes
+2025,Japan,1479,1372.771907824041,No,8.13,Textured,18.36,54.09,28.55,67.19,1.7,44% Male - 24% Female,Durex,Yes
+2025,Japan,90,78.28217979904964,Yes,9.04,Textured,85.33,9.1,59.83,21.93,1.3,60% Male - 36% Female,Trojan,Yes
+2025,Japan,1410,2618.8606147023115,No,6.61,Latex,22.81,46.35,60.44,10.48,0.98,57% Male - 38% Female,Skyn,Yes
+2025,France,634,749.1251600642433,No,7.45,Non-Latex,33.13,29.53,34.26,21.87,1.56,59% Male - 58% Female,LifeStyles,Yes
+2025,France,1147,3726.422041660755,Yes,8.98,Latex,64.36,37.6,34.87,26.8,0.24,54% Male - 60% Female,Durex,Yes
+2025,France,1673,4296.87391585734,Yes,6.55,Textured,94.85,13.22,28.89,39.91,1.45,71% Male - 20% Female,Manforce,Yes
+2025,France,134,447.3633806394138,No,2.24,Ultra-Thin,49.88,22.31,27.14,44.82,1.29,46% Male - 31% Female,Manforce,Yes
+2025,France,1960,1224.706530340722,Yes,9.66,Non-Latex,52.07,60.25,77.69,19.53,0.45,53% Male - 42% Female,Kamasutra,Yes
+2025,Australia,585,876.6958450399267,No,5.53,Textured,77.79,52.35,89.26,20.34,0.48,52% Male - 60% Female,LifeStyles,Yes
+2025,Australia,273,311.9659660480726,Yes,3.43,Textured,48.71,32.15,85.71,15.77,1.96,62% Male - 41% Female,LifeStyles,No
+2025,Australia,994,2787.7624234296886,Yes,5.52,Textured,57.73,63.18,33.34,18.98,1.1,45% Male - 59% Female,Durex,Yes
+2025,Australia,730,938.7310018781429,Yes,6.73,Ultra-Thin,30.33,32.88,61.39,16.43,0.87,72% Male - 31% Female,Skyn,Yes
+2025,Australia,1456,2914.9584503441633,Yes,4.03,Textured,47.37,5.06,70.48,55.14,0.5,40% Male - 47% Female,Kamasutra,No
