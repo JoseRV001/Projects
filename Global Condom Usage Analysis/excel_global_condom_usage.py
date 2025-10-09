@@ -9,7 +9,7 @@ import matplotlib.patches as mpatches
 pd.set_option('display.max_columns', None)
 
 #Load Dataset
-df = pd.read_csv(r'C:\Users\Jose\Documents\python\Rich_Global_Condom_Usage_Dataset.csv')
+df = pd.read_csv(r'Rich_Global_Condom_Usage_Dataset.csv')
 
 #Basic Information
 print(f'This Dataset contains {df.shape[0]} rows and {df.shape[1]} columns')
@@ -105,4 +105,5 @@ for i in pvt3.columns:
     if i < 2025:
         ny = i+1
         pvt3[f'{fy} to {ny}'] = (pvt3[ny] - pvt3[fy]) / pvt3[fy]
+
 
