@@ -8,7 +8,7 @@ import datetime
 st.set_page_config(page_title="Home", page_icon="🌤️", layout="wide")
 
 category_file = "categories.json"
-file_path = 'full_combined.csv'
+file_path = 'transaction_data.csv'
 
 if "categories" not in st.session_state:
     st.session_state.categories = {
@@ -143,4 +143,5 @@ def main():
                          column_config={"Deposits/Additions": st.column_config.NumberColumn("Deposits/Additions", format="%.2f USD") },
                          hide_index=True)
             
+
 main()    
