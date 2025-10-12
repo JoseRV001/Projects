@@ -29,8 +29,8 @@ def logout():
 
 login_pg = st.Page(login, title="Log in", icon=":material/login:")
 logout_pg = st.Page(logout, title="Log out", icon=":material/logout:")
-main_pg = st.Page("main.py",title="Home",default=True,icon=":material/home:")
-budget_pg = st.Page("budget.py",title="Budget",icon=":material/savings:")
+main_pg = st.Page("finance_app_main.py",title="Home",default=True,icon=":material/home:")
+budget_pg = st.Page("finance_app_budget.py",title="Budget",icon=":material/savings:")
 
 if st.session_state.logged_in:
     pg = st.navigation({
@@ -43,4 +43,5 @@ if st.session_state.logged_in:
 else:
      pg = st.navigation([login_pg])
      
+
 pg.run()
